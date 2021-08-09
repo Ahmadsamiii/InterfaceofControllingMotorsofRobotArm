@@ -1,6 +1,6 @@
 # Robotics and Artificial Intelligence Track | Task-1
 
-## Interface of Controlling Motors of Robotic Arm
+## Interface of Controlling Motors of Robot Arm
 
 Description:
 
