@@ -1,4 +1,4 @@
-# Robotics and Artificial Intelligence Track | Task-1
+# Software and Internet of Things Track | Task-1
 
 ## Interface of Controlling Motors of Robot Arm
 
